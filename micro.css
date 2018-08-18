@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/*
+ CSS created with CSE HTML Validator
+*/
+
+body {margin: 20px 20px 200px 20px;
+    background-color: #ffeedd; }
+blockquote {border: double black 3px; 
+    padding: 20px; }
+blockquote p {margin: 0; }
+h1 {text-align: center;
+    color: #000066; }
+h2 {margin-left: 20px;
+    color: #440044; }
+h3 {margin-left: 40px;
+    color: #880044; }
+p {margin: 0 20px 10px 60px; }
+ul {margin-left: 40px; }
+img {float: right; margin-left: 8px;}
+span.cap {font-size: 120%;
+    color: #880044; }
+span.smaller {font-size: 80%; }
+.place {color: #aaaaaa; }
+.updates {width: 50%; margin: auto; }
